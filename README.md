@@ -18,6 +18,7 @@
 + [搭桥小游戏（Egret）](https://github.com/a1029563229/bridge)
 + [好物商城前端（Taro）](https://github.com/a1029563229/mall)
 + [好物商城中间层（Express）](https://github.com/a1029563229/webapi-main)
++ [好物商城微服务-公共服务（Koa）](https://github.com/a1029563229/webapi-mall-common)
 + [好物商城微服务-商城相关（Koa）](https://github.com/a1029563229/webapi-mall-account)
 + [好物商城后台管理系统（React）](https://github.com/a1029563229/webapp-mall-management)
 
