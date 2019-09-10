@@ -46,4 +46,4 @@
 + [敏捷软件开发：原则、模式与实践（1%)](https://github.com/a1029563229/ASD)
 
 ### Javascript 相关
-+ [深入浅出 Node.js（60%）](https://github.com/a1029563229/Node)
++ [深入浅出 Node.js（100%）](https://github.com/a1029563229/Node)
