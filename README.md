@@ -20,7 +20,9 @@
 + [好物商城中间层（Express）](https://github.com/a1029563229/webapi-main)
 + [好物商城微服务-公共服务（Koa）](https://github.com/a1029563229/webapi-mall-common)
 + [好物商城微服务-商城相关（Koa）](https://github.com/a1029563229/webapi-mall-account)
++ [好物商城微服务-用户相关（Koa）](https://github.com/a1029563229/webapi-mall-member)
 + [好物商城后台管理系统（React）](https://github.com/a1029563229/webapp-mall-management)
++ [好物商城部署工具（Node）](https://github.com/a1029563229/mall-scripts)
 
 ### Demo 合集
 + [React 和 Redux 的基本实现](https://github.com/a1029563229/T-Node)
@@ -32,7 +34,7 @@
 
 ## 读书笔记
 ### 网络相关
-+ [计算机网络：自顶向下方法（20%）](https://github.com/a1029563229/Computer-Networking)
++ [计算机网络：自顶向下方法（60%）](https://github.com/a1029563229/Computer-Networking)
 + [HTTP 权威指南 （5%）](https://github.com/a1029563229/HTTP)
 
 ### 计算机系统相关
@@ -40,6 +42,7 @@
 
 ### 数据库相关
 + [数据库系统管理（1%）](https://github.com/a1029563229/SQL)
++ [MongoDB 实战（10%）](https://github.com/a1029563229/MONGODB)
 
 ### 软件设计相关
 + [设计模式（80%)](https://github.com/a1029563229/Design-Patterns)
