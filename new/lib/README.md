@@ -65,7 +65,7 @@ import { Item as MenuItem, ItemGroup as MenuItemGroup } from 'rc-menu';
 // 把 children 转换为数组
 import childrenToArray from 'rc-util/lib/Children/toArray';
 
-// 键位的枚举，例如 KeyCode.ENTER 代表回车键的 keyCode
+// 键盘/键位的枚举，例如 KeyCode.ENTER 代表回车键的 keyCode
 import KeyCode from 'rc-util/lib/KeyCode';
 
 // react 轮播组件
