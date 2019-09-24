@@ -9,6 +9,11 @@
 + [Ant-Design](https://github.com/a1029563229/Antd-Source-Code)
 + [React](https://github.com/a1029563229/React-Source-Code)
 + [Redux](https://github.com/a1029563229/Redux-Source-Code)
++ [Webpack](https://github.com/a1029563229/Webpack-Source-Code)
+
+### 零碎知识整理
++ [npm 实用库](https://github.com/a1029563229/Excerpt-Set/tree/master/new/lib)
++ [阅读源码笔记合集](https://github.com/a1029563229/Excerpt-Set/tree/master/new/lib)
 
 ## 项目合集
 
@@ -27,6 +32,7 @@
 ### Demo 合集
 + [React 和 Redux 的基本实现](https://github.com/a1029563229/T-Node)
 + [Express 和中间件](https://github.com/a1029563229/L-Express)
++ [MVC、MVP、MVVM 模式最佳实践](https://github.com/a1029563229/MVX)
 
 ### 模板库
 + [ES6 模板](https://github.com/a1029563229/es6-template)
@@ -34,7 +40,7 @@
 
 ## 读书笔记
 ### 网络相关
-+ [计算机网络：自顶向下方法（60%）](https://github.com/a1029563229/Computer-Networking)
++ [计算机网络：自顶向下方法（80%）](https://github.com/a1029563229/Computer-Networking)
 + [HTTP 权威指南 （5%）](https://github.com/a1029563229/HTTP)
 
 ### 计算机系统相关
@@ -42,7 +48,7 @@
 
 ### 数据库相关
 + [数据库系统管理（1%）](https://github.com/a1029563229/SQL)
-+ [MongoDB 实战（10%）](https://github.com/a1029563229/MONGODB)
++ [MongoDB 实战（25%）](https://github.com/a1029563229/MONGODB)
 
 ### 软件设计相关
 + [设计模式（80%)](https://github.com/a1029563229/Design-Patterns)
